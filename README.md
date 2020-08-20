@@ -6,7 +6,7 @@
 **andresdavidsv/andresdavidsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am an Electronics Engineering student (Robotics Thesis in AVG Technology) with an emphasis on Mechatronics, Networks, and Telecommunications.
+I am an Electronics Engineering with an emphasis on Mechatronics, Networks, and Telecommunications.
 
 I am passionate about technology and running.
 

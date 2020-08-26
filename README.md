@@ -1,12 +1,12 @@
 ## Hi there, I´m Andrés David | @andresdavidsv 👋
 
-### I'm a Husband, Father, Developer, and Student!
+### I'm a Husband, Father, Engineer, Developer, and Student!
 
 <!--
 **andresdavidsv/andresdavidsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am an Electronics Engineering with an emphasis on Mechatronics, Networks, and Telecommunications.
+I am an Electronic Engineer with an emphasis on Mechatronics, Networks, and Telecommunications.
 
 I am passionate about technology and running.
 

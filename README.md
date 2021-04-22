@@ -13,7 +13,7 @@ I am passionate about technology and running.
 I am always in search of professional improvement.
 
 - 🔭 I’m currently working on Cafeto Software as a Development Engineer
-- 🌱 I’m currently learning about Python, Machine Learning and Intelligence Artificial
+- 🌱 I’m currently learning about Swift, Python, DevOps, Machine Learning and Intelligence Artificial
 - 👯 I’m looking to collaborate on social applications web development
 - 🤔 I’m looking for help with managing roles, permissions and access policies
 - 🏢 You can check the status of my corporate repository here -> [LINK][cafeto]

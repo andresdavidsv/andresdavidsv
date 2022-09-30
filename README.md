@@ -1,12 +1,10 @@
 ## Hi there, I´m Andrés David | @andresdavidsv 👋
 
-### I'm a Father, Electronic Engineer, and Development Engineer!
+### I'm a Father and Software Engineer!
 
 <!--
 **andresdavidsv/andresdavidsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-I am an Electronic Engineer with an emphasis on Mechatronics, Networks, and Telecommunications.
 
 I am passionate about technology and running.
 
@@ -16,7 +14,7 @@ I am always in search of professional improvement.
 - 🌱 I’m currently learning about Swift, Python, DevOps, Machine Learning and Intelligence Artificial
 - 👯 I’m looking to collaborate on social applications web development
 - 🤔 I’m looking for help with managing roles, permissions and access policies
-- 💬 Ask me about Laravel, JavaScript and Python
+- 💬 Ask me about JavaScript
 - 📫 How to reach me:
   You can contact me on all social media as @andresdavidsv or You can send me an email to soy@andresdavidsv.com
 - ⚡ Fun fact: I am a runner. I love this hobby.

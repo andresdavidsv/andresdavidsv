@@ -12,7 +12,7 @@ I am always in search of professional improvement.
 
 - 🔭 I’m currently working a Mobile Software Engineer
 - 🌱 I’m currently learning about Swift, Python, DevOps, Machine Learning and Intelligence Artificial
-- 👯 I’m looking to collaborate on social applications web development
+- 👯 I’m looking to collaborate on social applications web development and Mobile developments
 - 🤔 I’m looking for help with managing roles, permissions and access policies
 - 💬 Ask me about JavaScript
 - 📫 How to reach me:

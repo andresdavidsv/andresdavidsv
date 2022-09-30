@@ -1,6 +1,6 @@
 ## Hi there, I´m Andrés David | @andresdavidsv 👋
 
-### I'm a Father and Software Engineer!
+### I'm a Father and Mobile Software Engineer!
 
 <!--
 **andresdavidsv/andresdavidsv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +10,7 @@ I am passionate about technology and running.
 
 I am always in search of professional improvement.
 
-- 🔭 I’m currently working a Software Engineer
+- 🔭 I’m currently working a Mobile Software Engineer
 - 🌱 I’m currently learning about Swift, Python, DevOps, Machine Learning and Intelligence Artificial
 - 👯 I’m looking to collaborate on social applications web development
 - 🤔 I’m looking for help with managing roles, permissions and access policies

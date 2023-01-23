@@ -17,7 +17,7 @@ I am always in search of professional improvement.
 - 💬 Ask me about JavaScript
 - 📫 How to reach me:
   You can contact me on all social media as @andresdavidsv or You can send me an email to soy@andresdavidsv.com
-- ⚡ Fun fact: I am a runner. I love this hobby.
+- ⚡ Fun fact: I am a Triathlet of Selection Colombia. I love this hobby.
 
 ### Connect with me:
 
